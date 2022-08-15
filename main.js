@@ -1,3 +1,4 @@
+// 主进程
 const { app, BrowserWindow } = require("electron");
 const path = require("path");
 const createWindow = () => {
